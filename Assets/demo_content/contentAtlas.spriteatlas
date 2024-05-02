@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: contentAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 16
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 32
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 542931812, guid: 6772281951141f247846ea3b1958a20f, type: 3}
+    - {fileID: 1999918075, guid: 534a6b5a4851ec74aa0357e147651e38, type: 3}
+    - {fileID: -329553221, guid: de3cf1a58cf24894eab9e2cb91d67f10, type: 3}
+    - {fileID: -1215536397, guid: 355449073ea0b2e429596ca645922294, type: 3}
+    - {fileID: -86026747, guid: c7dc515dd1059044eada216f505e56c7, type: 3}
+    - {fileID: 285722097, guid: 8f394b729491a9d42bc0308459adeb2c, type: 3}
+    - {fileID: -585636618, guid: aaf1db4f8f6cf10488c3f0b652606133, type: 3}
+    - {fileID: 582710371, guid: 9df4ebe3ae6c91a4baf39d3dd55d1f2c, type: 3}
+    - {fileID: 1036668321, guid: 5176188a70f33564ea46dc4a495b35c1, type: 3}
+    - {fileID: 1878029113, guid: 31610ef1b062e0d4380e73ba418835e0, type: 3}
+    - {fileID: -1238826183, guid: 2c6dfe08f3d20dd47ab7b825b4afc88b, type: 3}
+    - {fileID: 1999823236, guid: af7b22c610603654ea905010cc27d35c, type: 3}
+    - {fileID: 1734908060, guid: 3df198b05584dfa49a8ac171189602d1, type: 3}
+    - {fileID: -2135936528, guid: da2a5ce6e7ebea04f880a71ff4764dc8, type: 3}
+    - {fileID: 1763509239, guid: 158a575632ec6434fb96e7ff4ca96dfa, type: 3}
+    - {fileID: -926241524, guid: bb57a21c0579fbe459620af3fb8b2c5a, type: 3}
+    - {fileID: -468407440, guid: 75b12c8652ff1064990f504890c9bb10, type: 3}
+    - {fileID: -1598400569, guid: ac0e1e16a88ec6f4b95b5942dd5b864d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1734908060, guid: 3df198b05584dfa49a8ac171189602d1, type: 3}
+  - {fileID: 1878029113, guid: 31610ef1b062e0d4380e73ba418835e0, type: 3}
+  - {fileID: 285722097, guid: 8f394b729491a9d42bc0308459adeb2c, type: 3}
+  - {fileID: 582710371, guid: 9df4ebe3ae6c91a4baf39d3dd55d1f2c, type: 3}
+  - {fileID: -329553221, guid: de3cf1a58cf24894eab9e2cb91d67f10, type: 3}
+  - {fileID: -1598400569, guid: ac0e1e16a88ec6f4b95b5942dd5b864d, type: 3}
+  - {fileID: 1763509239, guid: 158a575632ec6434fb96e7ff4ca96dfa, type: 3}
+  - {fileID: -468407440, guid: 75b12c8652ff1064990f504890c9bb10, type: 3}
+  - {fileID: 1999823236, guid: af7b22c610603654ea905010cc27d35c, type: 3}
+  - {fileID: -2135936528, guid: da2a5ce6e7ebea04f880a71ff4764dc8, type: 3}
+  - {fileID: -1215536397, guid: 355449073ea0b2e429596ca645922294, type: 3}
+  - {fileID: -1238826183, guid: 2c6dfe08f3d20dd47ab7b825b4afc88b, type: 3}
+  - {fileID: 542931812, guid: 6772281951141f247846ea3b1958a20f, type: 3}
+  - {fileID: 1999918075, guid: 534a6b5a4851ec74aa0357e147651e38, type: 3}
+  - {fileID: 1036668321, guid: 5176188a70f33564ea46dc4a495b35c1, type: 3}
+  - {fileID: -926241524, guid: bb57a21c0579fbe459620af3fb8b2c5a, type: 3}
+  - {fileID: -86026747, guid: c7dc515dd1059044eada216f505e56c7, type: 3}
+  - {fileID: -585636618, guid: aaf1db4f8f6cf10488c3f0b652606133, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_spin_bronze_base_1
+  - ui_icon_render_cons_grenade_m67_1
+  - ui_card_panel_zone_coming_0
+  - UI_icon_chest_standart_nolight_0
+  - ui_card_icon_death_0
+  - ui_spin_silver_indicator_0
+  - ui_spin_golden_base_4
+  - ui_spin_silver_base_1
+  - UI_icon_gold_0
+  - ui_spin_bronze_indicator_0
+  - ui_card_panel_zone_bg_0
+  - ui_icon_render_cons_grenade_m26_0
+  - UI_button_orange_standard_0
+  - UI_button_grey_standard_0
+  - UI_icon_chest_super_nolight_0
+  - ui_spin_golden_indicator_0
+  - ui_card_frame_12px_neutral_0
+  - UI_icon_cash_0
+  m_RenderDataMap: {}
+  m_Tag: contentAtlas
+  m_IsVariant: 0

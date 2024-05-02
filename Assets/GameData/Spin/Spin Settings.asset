@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25266bd306843204f918641fb6776b09, type: 3}
+  m_Name: Spin Settings
+  m_EditorClassIdentifier: 
+  _elementPrefab: {fileID: 7315155095348587708, guid: d961f2ed99cca0c42b198c6879fedbaf,
+    type: 3}
+  _numberOfImages: 8
+  _radius: 220
+  _rotationDuration: 6
